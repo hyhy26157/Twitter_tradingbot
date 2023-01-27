@@ -29,3 +29,4 @@ lower and post it as a tweet.
 I used a microsoft task scheduler to execute the script on daily basis, however, this will only work if the computer is not in OFF mode when the scheduler is triggered.
 To get past that, we can do a cron job using cloud to schedule the script.
 
+See the result here at https://twitter.com/MoversMomentum
